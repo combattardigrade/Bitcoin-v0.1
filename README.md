@@ -22,3 +22,6 @@ The study folder contains the main files of the 0.1 version, roughly 7000 LOC.
 *   373 ./util.cpp
 *   265 ./irc.cpp
 *  6603 total
+
+Bitcoin 0.1.0 Unreleased Features
+https://imgur.com/a/NPiIs
